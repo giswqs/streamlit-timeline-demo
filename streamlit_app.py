@@ -10,12 +10,12 @@ st.markdown("""
 
 
 items = [
-    {"id": 1, "content": "2014-04-20", "start": "2014-04-20"},
-    {"id": 2, "content": "2014-04-14", "start": "2014-04-14"},
-    {"id": 3, "content": "2014-04-18", "start": "2014-04-18"},
-    {"id": 4, "content": "2014-04-16", "start": "2014-04-16"},
-    {"id": 5, "content": "2014-04-25", "start": "2014-04-25"},
-    {"id": 6, "content": "2014-04-27", "start": "2014-04-27"},
+    {"id": 1, "content": "2022-10-20", "start": "2022-10-20"},
+    {"id": 2, "content": "2022-10-09", "start": "2022-10-09"},
+    {"id": 3, "content": "2022-10-18", "start": "2022-10-18"},
+    {"id": 4, "content": "2022-10-16", "start": "2022-10-16"},
+    {"id": 5, "content": "2022-10-25", "start": "2022-10-25"},
+    {"id": 6, "content": "2022-10-27", "start": "2022-10-27"},
 ]
 
 timeline = st_timeline(items, groups=[], options={}, height="300px")
