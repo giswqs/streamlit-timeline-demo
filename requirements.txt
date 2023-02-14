@@ -1,2 +1,2 @@
 streamlit
-streamlit-vis-timeline
+streamlit-vis-timeline>0.2.0
